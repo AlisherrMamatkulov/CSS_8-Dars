@@ -1,0 +1,116 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.from-group{
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    padding:50px;
+    box-sizing: border-box;
+}
+input{
+    width: 40%;
+    padding:10px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    margin: 12px;
+}
+label{
+    width: 20%;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    text-align: right;
+}
+.barca{
+    width: 350px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.real{
+    width: 350px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-align: center;
+
+}
+select{
+    width: 12%;
+    display: inline-block;
+    border-radius: 4px;
+    border: 1px solid #cccccc;
+    padding: 5px;
+
+}
+.ff{
+    margin-right: 20px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.city{
+    width: 90px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+}
+.liver{
+    width: 90px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+}
+.ars{
+    width: 90px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+}
+input[type=submit]{
+    display: block;
+    margin: 20px auto;
+    background-color: #45bd42;
+    color: white;
+    width: 40%;
+}
+.aa{
+    width: 20px;
+
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.bb{
+    width: 20px;
+
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.cc{
+    width: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-align: center;
+}

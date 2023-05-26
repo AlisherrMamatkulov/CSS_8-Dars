@@ -1,0 +1,81 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.from-group{
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    padding:50px;
+    box-sizing: border-box;
+    background-color: darkslategray;
+}
+input{
+    width: 40%;
+    padding:10px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    margin: 12px;
+}
+.barca{
+    width: 180px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+    background-color: #45bd42;
+    color: white;
+}
+.real{
+    width: 180px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+.x{
+    color: whitesmoke;
+    text-align: center;
+}
+.city{
+    width: 175px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+    color: white;
+}
+.unt{
+    width: 175px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+    color: white;
+}
+.chel{
+    width: 360px;
+    margin-right: 40px;
+    display: block;
+}
+.liver{
+    width: 360px;
+    display: block;
+}
+.iPhone{
+    width: 380px;
+    padding:10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+    background-color: #45bd42;
+    color: white;
+}

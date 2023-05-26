@@ -1,0 +1,42 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.from-group{
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    padding: 1.2rem 1.5rem;
+    box-sizing: border-box;
+}
+input{
+    width: 60%;
+    padding: 0.5rem 1.5rem;
+    display: block;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+label{
+    width: 35%;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 10px;
+    text-align: right;
+}
+.el{
+    width:500px;
+    height: 55px;
+    background-color: grey;
+    padding: 5px;
+    text-align:center;
+    margin-top: -35px;
+    margin-left: -23px;
+}
+.sam{
+    width: 440px;
+}
+
+
